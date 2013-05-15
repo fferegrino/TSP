@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSP", "TSP\TSP.csproj", "{76B42C8F-15D3-477F-8CB3-20035583B745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSP.Vista", "TSP.Vista\TSP.Vista.csproj", "{6745B204-CF0E-4237-B084-15349AA75748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B42C8F-15D3-477F-8CB3-20035583B745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B42C8F-15D3-477F-8CB3-20035583B745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B42C8F-15D3-477F-8CB3-20035583B745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B42C8F-15D3-477F-8CB3-20035583B745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6745B204-CF0E-4237-B084-15349AA75748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6745B204-CF0E-4237-B084-15349AA75748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6745B204-CF0E-4237-B084-15349AA75748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6745B204-CF0E-4237-B084-15349AA75748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
