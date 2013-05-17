@@ -257,11 +257,6 @@ namespace TSP.Vista
 
         #endregion
 
-        private void tbEnteroValidacion(object sender, System.ComponentModel.CancelEventArgs e)
-        {
-
-        }
-
 
     }
 
